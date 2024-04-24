@@ -4,3 +4,17 @@
 # set branch: git branch -M main (not req 2nd time)
 ## set destination (1st time) => git remote add origin https://github.com/ChaudharyArun/gitclass.git
 # push => git push -u origin main (-u not required after 1st time)
+
+# git remote -v
+
+# Note: COnfig is an often occuring error. Check from git UI if it is correct.
+# Desination also needs to be checked from gut UI.
+
+###########################
+
+# set up new branch => git branch developer1 
+# Change to new branch => git checkout developer1
+# now, change back to main
+# merge -> git merge developer1
+
+# delete branch => git branch -d developer2
