@@ -1,0 +1,6 @@
+# tracking => git add . (check status)
+# configuration (only 1st time) =>  git config --global user.name(email) "Arun Chaudhary"
+# commit => git commit -m "commit message"
+# set branch: git branch -M main (not req 2nd time)
+## set destination (1st time) => git remote add origin https://github.com/ChaudharyArun/gitclass.git
+# push => git push -u origin main (-u not required after 1st time)
